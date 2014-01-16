@@ -1,0 +1,18 @@
+html { height: 100% }
+body { height: 100%; margin: 0; padding: 0 }
+#map-canvas { height: 100% }
+
+.maps-infobox .project-title {
+	margin: 0;
+}
+.maps-infobox .project-description {
+	width: 400px;
+	overflow: hidden;
+}
+.maps-infobox .project-description .project-thumbnail {
+	float: left;
+	margin-right: 10px;
+}
+.maps-infobox .project-link {
+	text-align: right;
+}

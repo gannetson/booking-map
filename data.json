@@ -1,0 +1,54 @@
+[
+	{
+		"id": 1,
+		"name": "Project 1",
+		"image": "http://placehold.it/200x200",
+		"description": "Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis risus eget urna mollis ornare vel eu leo. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Maecenas sed diam eget risus varius blandit sit amet non magna. Vestibulum id ligula porta felis euismod semper.",
+		"slug": "project-1",
+		"lat": 56.3224329,
+		"lng": 78.2394834,
+		"location": "Boston, US"
+	},
+	
+	{
+		"id": 2,
+		"name": "Project 2",
+		"image": "http://placehold.it/200x200",		
+		"description": "Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis risus eget urna mollis ornare vel eu leo. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Maecenas sed diam eget risus varius blandit sit amet non magna. Vestibulum id ligula porta felis euismod semper.",
+		"slug": "project-1",
+		"lat": 32.234234,
+		"lng": 21.320984,
+		"location": "Amsterdam, The Netherlands"
+	},
+	
+	{
+		"id": 3,
+		"name": "Project 3",
+		"image": "http://placehold.it/200x200",		
+		"description": "Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis risus eget urna mollis ornare vel eu leo. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Maecenas sed diam eget risus varius blandit sit amet non magna. Vestibulum id ligula porta felis euismod semper.",
+		"slug": "project-1",
+		"lat": 16.3224329,
+		"lng": 70.2394834,
+		"location": "Copenhagen, Denmark"
+	},
+	{
+		"id": 4,
+		"name": "Project 4",
+		"image": "http://placehold.it/200x200",		
+		"description": "Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis risus eget urna mollis ornare vel eu leo. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Maecenas sed diam eget risus varius blandit sit amet non magna. Vestibulum id ligula porta felis euismod semper.",
+		"slug": "project-1",
+		"lat": -10.23434234,
+		"lng": -70.2394834,
+		"location": "Ho Cho Minh City, Vietnam"
+	},
+	{
+		"id": 5,
+		"name": "Project 5",
+		"image": "http://placehold.it/200x200",		
+		"description": "Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis risus eget urna mollis ornare vel eu leo. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Maecenas sed diam eget risus varius blandit sit amet non magna. Vestibulum id ligula porta felis euismod semper.",
+		"slug": "project-1",
+		"lat": 30.23434234,
+		"lng": -60.2394834,
+		"location": "Huancayo, Peru"
+	}			
+]
